@@ -2,7 +2,7 @@
 
 # Project Timeline
 
-- **Project Name:** Groundwater Quality Classification and Risk Assessment  
+- **Project Name:** Groundwater Quality Classification and Risk Assessment (India)
 - **Duration:** 01 July 2024 → 13 September 2024 (~10 weeks)  
 - **Role:** Student Researcher (Self-initiated Academic Project)  
 - **Location:** UK (MSc Data Science dissertation)  
